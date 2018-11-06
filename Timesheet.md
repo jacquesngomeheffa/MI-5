@@ -15,7 +15,7 @@
 ## Week2 - 9uur+
 #### React experimenteren
 - Proberen mijn ideen te vormen naar componenten
-- installatie van extra componenten die samen werken met react 
+- Installatie van extra componenten die samen werken met react 
 - Extra tutorials bekeken voor informatie (Get Started with React)
 
 
