@@ -1,4 +1,4 @@
-# Timesheet
+# Timesheet Jacques Ngome Heffa
 ## Week1 - 10uur+ 
 #### React leren: 6uur
   - Tutorials bekeken
@@ -44,13 +44,35 @@
   - Wachtwoord vergeten(terug opvragen en via uw email wijzigen)
 - User profile (een stukje afgewerkt)
 
-## Week5 - 12uur+
+## Week5 - 15uur+
 #### Project
-
-- Firebase opvullen met Json file. Gegevens over:
+- PSG Stukjes Gegevens over het team opzoeken en omvormen naar JSON file
+- Firebase opvullen met deze Json file. Gegevens over:
   - PSG SPELERS
-  - PSG STAFF
+  - PSG STAFFS
   - PSG VOORZITTERS
+- Tab Link Voor die drie gegevens zodat we deze uit firebase kunnen opvragen en bewerken
+  - Bewerking
+    - Een lijst van spelers met een click effet voor extra info
+    - Een lijst van de staffs met een click effet voor extra info
+    - Een lijst van voorzitters met een click effet voor extra info
+- CSS maar nog niet mooi als ik verwacht 
+  - Card (Framework)
+
+## Week6 - 13uur+
+#### Project
+- Public Chat 
+  - Bericht sturen en ontvangen
+  - Foto Oploaden in de conversatie
+  - Functie isTyping ( verwijst naar een user die aan het sschrijven is)
+  - LIVE CHAT (ziet onmidelijk wie een bericht heeft gestuurd)
+  - Messages React component (Framework7-react)
+     - Messages Components
+     - Messages Properties
+     - Messages Methods
+     - Messages Events
+     - Messages Slots
+     - Access To Messages Instance
   
   
 
