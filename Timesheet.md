@@ -74,14 +74,18 @@
      - Messages Slots
      - Access To Messages Instance
   
-## Week7 - 10uur+
+## Week7 - 13uur+
 #### Project
 - Post plaatsen
   - Betreft(commentaar, gebruikersnaam, gebruikeravatar, foto)
     - Toon onmidelijk de post op de home page van de app
     - SHOWPOST JSX COMPONENT
     - click effet( maar nog niet afgewerkt)
- - App building & Hosting (PROTOTYPE)
-   - link : https://psgfans-eeede.firebaseapp.com
+ - App building
+   - PWA
+      - Offline Werking (maar geen toegang tot firebase) wel navigatie tussen page of componenten
+      - Add to homescreen (mobile versie)
+ - Hosting (PROTOTYPE) in firebase
+   - Link : https://psgfans-eeede.firebaseapp.com
 
-## totaal: Meer dan 84 uren gepresteerd
+## totaal: Meer dan 87 uren gepresteerd
