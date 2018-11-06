@@ -44,7 +44,7 @@
   - Wachtwoord vergeten(terug opvragen en via uw email wijzigen)
 - User profile (een stukje afgewerkt)
 
-## Week5 - 15uur+
+## Week5 - 12uur+
 #### Project
 - PSG Stukjes Gegevens over het team opzoeken en omvormen naar JSON file
 - Firebase opvullen met deze Json file. Gegevens over:
@@ -74,6 +74,13 @@
      - Messages Slots
      - Access To Messages Instance
   
-  
+## Week7 - 10uur+
+#### Project
+- Post plaatsen
+  - Betreft(commentaar, gebruikersnaam, gebruikeravatar, foto)
+    - Toon onmidelijk de post op de home page van de app
+    - SHOWPOST JSX COMPONENT
+    - click effet( maar nog niet afgewerkt)
+    
 
-## totaal: xxuur
+## totaal: Meer dan 84 uren gepresteerd
