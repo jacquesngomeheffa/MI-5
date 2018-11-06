@@ -1,6 +1,6 @@
 # Timesheet Jacques Ngome Heffa
 ## Week1 - 10uur+ 
-#### React leren: 6uur
+#### React leren
   - Tutorials bekeken
   - Online react ducumentatie geraadpleegd
   - Installatie van de react project
