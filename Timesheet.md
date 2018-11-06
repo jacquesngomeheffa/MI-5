@@ -81,6 +81,7 @@
     - Toon onmidelijk de post op de home page van de app
     - SHOWPOST JSX COMPONENT
     - click effet( maar nog niet afgewerkt)
-    
+ - App building & Hosting (PROTOTYPE)
+   - link : https://psgfans-eeede.firebaseapp.com
 
 ## totaal: Meer dan 84 uren gepresteerd
