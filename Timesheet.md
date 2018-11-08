@@ -95,4 +95,4 @@
 - Showpost
 
 
-## totaal: Meer dan 87 uren gepresteerd
+## totaal: Meer dan 93 uren gepresteerd
