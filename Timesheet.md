@@ -74,7 +74,7 @@
      - Messages Slots
      - Access To Messages Instance
   
-## Week7 - 13uur+
+## Week7 - 15uur+
 #### Project
 - Post plaatsen
   - Betreft(commentaar, gebruikersnaam, gebruikeravatar, foto)
@@ -87,5 +87,12 @@
       - Add to homescreen (mobile versie)
  - Hosting (PROTOTYPE) in firebase
    - Link : https://psgfans-eeede.firebaseapp.com
+   
+## Week8 - 6uur+
+#### Project
+- Werken aan de profile van de gebruiker
+- Message
+- Showpost
+
 
 ## totaal: Meer dan 87 uren gepresteerd
