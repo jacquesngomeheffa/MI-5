@@ -90,9 +90,15 @@
    
 ## Week8 - 6uur+
 #### Project
-- Werken aan de profile van de gebruiker
+- Werken aan de profiel van de gebruikers
 - Message
-- Showpost
+- Showpost (like, commentaar, meer)
 
+## Week9 - 11uur+
+#### Project
+- Layout
+- Showpost (like, commentaar, meer)
+- PSG (Spelerslijst weergeven in card, lijst en extra) een searchbar maar werkt niet(F7 ??)
+- Service worker (offline) voor firebase (een zoektoch gedaan)
 
-## totaal: Meer dan 93 uren gepresteerd
+## totaal: Meer dan 106 uren gepresteerd
