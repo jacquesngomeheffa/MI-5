@@ -103,4 +103,4 @@
 - Login page(Inloggen met Google, Facebook, Twitter en Github) toegevoegd
 
 ## Totaal: Meer dan 110 uren gepresteerd
-## PROTOTYPE Here =====> Link : https://psgfans-eeede.firebaseapp.com
+## PROTOTYPE =====> https://psgfans-eeede.firebaseapp.com
