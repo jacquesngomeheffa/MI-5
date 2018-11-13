@@ -101,4 +101,4 @@
 - PSG (Spelerslijst weergeven in card, lijst en extra) een searchbar maar werkt niet(F7 ??)
 - Service worker (offline) voor firebase (een zoektoch gedaan)
 
-## totaal: Meer dan 106 uren gepresteerd
+## Totaal: Meer dan 106 uren gepresteerd
