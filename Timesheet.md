@@ -94,11 +94,12 @@
 - Message
 - Showpost (like, commentaar, meer)
 
-## Week9 - 11uur+
+## Week9 - 15uur+
 #### Project
 - Layout
 - Showpost (like, commentaar, meer)
 - PSG (Spelerslijst weergeven in card, lijst en extra) een searchbar maar werkt niet(F7 ??)
 - Service worker (offline) voor firebase (een zoektoch gedaan)
+- Login page(Inloggen met Google, Facebook, Twitter en Github) toegevoegd
 
-## Totaal: Meer dan 106 uren gepresteerd
+## Totaal: Meer dan 110 uren gepresteerd
