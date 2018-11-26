@@ -108,11 +108,12 @@
 - Service worker (offline) voor firebase (een zoektoch gedaan)
 - PSG (Spelerslijst weergeven in card, lijst en extra) search in de container
 
-## Week11 - 8uur+
+## Week11 - 13uur+
 #### Project
 - Layout
 - Public Messages (Auto scroll wanneer een nieuwe message aankomt) maar niet gelukt
 - Service worker (offline) voor firebase (een zoektoch gedaan)
+- PhotoBrowser voor elke post 
 
-## Totaal: Meer dan 125 uren gepresteerd
+## Totaal: Meer dan 130 uren gepresteerd
 ## PROTOTYPE =====> https://psgfans-eeede.firebaseapp.com
