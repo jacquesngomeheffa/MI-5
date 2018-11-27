@@ -112,7 +112,7 @@
 #### Project
 - Layout
 - Public Messages (Auto scroll wanneer een nieuwe message aankomt) maar niet gelukt
-- Service worker (offline) 96 % PWA 9
+- Service worker (offline) result ==> https://github.com/jacquesngomeheffa/MI-5/blob/master/Audit%20result.PNG
 - PhotoBrowser voor elke post 
 
 ## Totaal: Meer dan 138 uren gepresteerd
