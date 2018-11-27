@@ -102,18 +102,18 @@
 - Service worker (offline) voor firebase (een zoektoch gedaan)
 - Login page(Inloggen met Google, Facebook, Twitter en Github) toegevoegd
 
-## Week10 - 7uur+
+## Week10 - 10uur+
 #### Project
 - Layout
 - Service worker (offline) voor firebase (een zoektoch gedaan)
 - PSG (Spelerslijst weergeven in card, lijst en extra) search in de container
 
-## Week11 - 13uur+
+## Week11 - 18uur+
 #### Project
 - Layout
 - Public Messages (Auto scroll wanneer een nieuwe message aankomt) maar niet gelukt
-- Service worker (offline) voor firebase (een zoektoch gedaan)
+- Service worker (offline) 96 % PWA 9
 - PhotoBrowser voor elke post 
 
-## Totaal: Meer dan 130 uren gepresteerd
+## Totaal: Meer dan 138 uren gepresteerd
 ## PROTOTYPE =====> https://psgfans-eeede.firebaseapp.com
