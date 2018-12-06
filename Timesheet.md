@@ -115,5 +115,16 @@
 - Service worker (offline) result ==> https://github.com/jacquesngomeheffa/MI-5/blob/master/Audit%20result.PNG
 - PhotoBrowser voor elke post 
 
-## Totaal: Meer dan 138 uren gepresteerd
+## Week12 - 10uur+
+#### Project
+- Layout
+- Public Messages (Maak een chatgroep aan)
+
+
+## Week13 - 6uur+
+#### Project
+- Layout
+- Public Messages (Offline mode)
+
+## Totaal: Meer dan 154 uren gepresteerd
 ## PROTOTYPE =====> https://psgfans-eeede.firebaseapp.com
