@@ -126,5 +126,21 @@
 - Layout
 - Public Messages (Offline mode)
 
-## Totaal: Meer dan 154 uren gepresteerd
+## Week14 - 16uur+
+#### Project
+- Layout
+- Actua (PSG TAB) informatie over top scorers, passeurs en spelers met veel wedstrijden
+- PSG (zoektoch voor meer geschiedenis)
+- Chat room ( search messages)
+- Comment (op commentaar reageren)
+
+## Week15 - 20uur+
+#### Project
+- Back link tussen pages
+- CSS 
+- Project afwerken
+- Documentatie schrijven
+- Powerpoint
+
+## Totaal: Meer dan 190 uren gepresteerd
 ## PROTOTYPE =====> https://psgfans-eeede.firebaseapp.com
