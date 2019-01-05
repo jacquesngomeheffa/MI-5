@@ -1,5 +1,5 @@
-## Project Mobile & internet 5
-####Deliverables PSG FANS APP
+# Project Mobile & internet 5
+## Deliverables PSG FANS APP
   -	LOGIN SYSTEEM: mogelijkheid tot inlogen/ inschrijven 
   -	HOME PAGINA: waar alle posten gaat weergegeven zijn
   -	POST SYSTEEM: waarbij we een post kunnen plaatsen 
